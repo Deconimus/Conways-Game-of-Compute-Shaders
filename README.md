@@ -5,10 +5,12 @@ This is an implementation of Conway's Game of Life I did to test the usage of co
 
 ### Hotkeys
 
-Key     | Function
---------|-----------------------
-`SPACE` | Toggle pause
-`G`     | Toggle grid
-`+`     | Increase tickrate
-`-`     | Decrease tickrate
-`B`     | Toggle benchmark mode
+Key           | Function
+--------------|-----------------------
+`Mouse Left`  | Revive cell
+`Mouse Right` | Kill cell
+`SPACE`       | Toggle pause
+`G`           | Toggle grid
+`+`           | Increase tickrate
+`-`           | Decrease tickrate
+`B`           | Toggle benchmark mode
