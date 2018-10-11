@@ -3,7 +3,7 @@ This is an implementation of Conway's Game of Life I did to test the usage of co
 
 ![alt tag](https://github.com/Deconimus/Conways-Game-of-Compute-Shaders/blob/master/screenshot.png)
 
-### Hotkeys
+### Inputs
 
 Key           | Function
 --------------|-----------------------
